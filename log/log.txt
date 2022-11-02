@@ -1,0 +1,4 @@
+Info: 2022/11/01 log.go:39: This is info
+Warning: 2022/10/31 23:14:17 log.go:40: This is warning
+Error: 2022/10/31 23:14:17 log.go:41: This is error
+Fatal: 2022/10/31 23:14:17 log.go:42: This is fatal
